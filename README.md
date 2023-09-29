@@ -19,7 +19,9 @@ TLC Trip Record Data Yellow and green taxi trip records include fields capturing
 itemized fares, rate types, payment types, and driver-reported passenger counts.
 
 Website Used: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 Data Dictonary - https://github.com/jainyash007/uber-etl-anal-eng/blob/main/raw%20data/uber_data.csv
+
 Dataset - https://github.com/jainyash007/uber-etl-anal-eng/blob/main/data_dictionary_trip_records_yellow.pdf
 
 Github Link: https://github.com/jainyash007
